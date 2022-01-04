@@ -1,7 +1,8 @@
 {
-  "name": "nextjs",
-  "version": "1.0.0",
+  "name": "ronierlima-portifolio",
+  "version": "0.0.1",
   "private": true,
+  "author": "Ronier Lima <ronier.lim@gmail.com> (https://ronier.me/)",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
